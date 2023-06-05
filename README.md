@@ -1,6 +1,7 @@
-# Structural-Interpretation-and-Computer-Program
+# Structure and Interpretation of Computer Program
 
-Welcome to the Structure and Interpretation of Computer Programs repository! Here, you will find a collection of practice codes and assignments from my sixth-semester course on Structure and Interpretation of Computer Programs. The course is based on the renowned textbook, Structure and Interpretation of Computer Programs - 2nd Edition by Harold Abelson and Gerald Jay Sussman.
+Welcome to the Structure and Interpretation of Computer Programs repository! 
+Here, you will find a collection of practice codes and assignments from my sixth-semester course on Structure and Interpretation of Computer Programs. The course is based on the renowned textbook, Structure and Interpretation of Computer Programs - 2nd Edition by Harold Abelson and Gerald Jay Sussman.
 
 Course Overview
 This course has been instrumental in enhancing my programming skills and introducing me to the fascinating world of functional programming. Through the study of this course, I gained a deep understanding of how interpreters work and how environments play a crucial role in program execution. Moreover, it significantly improved my proficiency in recursion, a powerful technique for solving complex problems.
